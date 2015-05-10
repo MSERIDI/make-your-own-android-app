@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    android:layout_marginTop="16dp"
+
+    tools:context="com.example.compaq.brooser.AboutActivity">
+
+    <TextView android:text="@string/action_about1"
+        android:textSize="20pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/AbouTitle" />
+
+    <TextView android:text="@string/action_abo"
+        android:textSize="14pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/AboutContent"
+        android:layout_below="@id/AbouTitle"
+
+/>
+
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/COMPAQ/AndroidStudioProjects/Brooser/app/src/main/res/layout/activity_about.xml -->

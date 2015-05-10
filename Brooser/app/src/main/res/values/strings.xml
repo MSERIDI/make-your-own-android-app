@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BrooSer</string>
+    <string name="action_about">About</string>
+    <string name="action_about1">About:</string>
+    <string name="action_abo">This App is A Web Browser That is able to open one window , it is in its BETA Version ;
+        It is just used for Learning perposes So the design it in not perfect.
+    Note that when you enter the website in the navigation bar Please include all the link
+    and also add "http://" or "https://" or other .
+        Brooser is a simple safe and light application ,
+        Enjoy your use !! :)
+
+
+        Devoloped By: SERIDI Mohammed Fekhreddine;
+    </string>
+    <string name="action_clearhist">Clear History</string>
+    <string name="title_activity_browser">BrowserActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
